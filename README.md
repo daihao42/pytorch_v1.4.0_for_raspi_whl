@@ -1,7 +1,14 @@
-#### Pytorch 1.4.0
-#### torchvision 0.5.0
+### 1. Pytorch 1.4.0
+### 2. torchvision 0.5.0
 
-built on *raspberry PI 4B* + ubuntu 20.04 + *python 3.7*,
+built on :
+
+*raspberry PI 4B* + 
+
+ubuntu 20.04 +
+
+*python 3.7*,
+
 FYI ;-)
 
 | Wheel | MD5 |
