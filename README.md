@@ -3,13 +3,15 @@
 
 built on :
 
-*raspberry PI 4B* + 
+- **raspberry PI 4B**
 
-ubuntu 20.04 +
+- ubuntu 20.04
 
-*python 3.7*,
+- **python 3.7**
 
-FYI ;-)
+FYI
+
+;-)
 
 | Wheel | MD5 |
 | - | - |
